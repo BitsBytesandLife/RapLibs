@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.exe
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.deps.json
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.runtimeconfig.json
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.runtimeconfig.dev.json
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.dll
+C:\Users\User\source\repos\RapLibs\RapLibs\bin\Debug\netcoreapp3.1\RapLibs.pdb
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.AssemblyInfo.cs
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.dll
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.pdb
+C:\Users\User\source\repos\RapLibs\RapLibs\obj\Debug\netcoreapp3.1\RapLibs.genruntimeconfig.cache
